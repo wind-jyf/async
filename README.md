@@ -230,7 +230,14 @@ async function displayUser(){
 displayUser();
 ```
 
+异步的初级阶段已经完成，接下来我们需要深入的了解promise，懂得promise是如何实现的，以及await语法糖。
 
+#### 五、参考
+
+***
+
+* [深入理解 JavaScript Event Loop](https://zhuanlan.zhihu.com/p/34229323)
+* [【THE LAST TIME】彻底吃透 JavaScript 执行机制](https://juejin.im/post/6844903955286196237)
 
 
 
