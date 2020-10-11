@@ -10,7 +10,7 @@
 
 JavaScript有一个主线程`main thread`和调用栈`call-stack`也叫执行栈。所有任务都会放到调用栈中去等待主线程去执行它。
 
-![img](https://user-gold-cdn.xitu.io/2019/9/29/16d7ace2eda820a8?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![img](https://raw.githubusercontent.com/wind-jyf/async/main/img/1.jpg)
 
 1. 主线程不断循环
 2. 对于**同步任务**，创建执行上下文，并按顺序进入执行栈
